@@ -37,8 +37,8 @@
 <a href="https://seaborn.pydata.org" target="_blank">
   <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Microsoft_SQL_Server_Logo.png"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 </a>
 <a href="https://www.mysql.com" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
@@ -55,17 +55,14 @@
 <a href="https://www.linux.org" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </a>
-  <a href="https://en.wikipedia.org/wiki/XML" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/XML_Logo.svg"/>
-</a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg"/>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"/>
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
 </a>
 <a href="https://www.tableau.com" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg"/>
 </a>
 </p>
 
