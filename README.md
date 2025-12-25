@@ -16,25 +16,20 @@
 
 ### 🛠 Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,cs,python,numpy,pandas" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,linux" />
-<img src="https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-005FAD?logo=w3c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+<img height="40" src="https://skillicons.dev/icons?i=cpp,java,cs,python,numpy,pandas,seaborn,mysql,oracle,git,github,linux" />
+<img height="40" src="https://skillicons.dev/icons?i=powerbi,tableau" />
 </p>
-
 
 ---
 
 ### 🔗 Connect with Me
 <p>
-<a href="www.linkedin.com/in/ahmed-naser-faisal">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ahmed-naser-faisal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:ahmed.faysel.22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
 </a>
 </p>
+
