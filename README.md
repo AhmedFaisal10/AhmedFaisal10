@@ -16,20 +16,69 @@
 
 ### 🛠 Languages & Tools
 <p>
-<img height="40" src="https://skillicons.dev/icons?i=cpp,java,cs,python,numpy,pandas,seaborn,mysql,oracle,git,github,linux" />
-<img height="40" src="https://skillicons.dev/icons?i=powerbi,tableau" />
+<a href="https://isocpp.org" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</a>
+<a href="https://numpy.org" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
+</a>
+<a href="https://pandas.pydata.org" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
+</a>
+<a href="https://seaborn.pydata.org" target="_blank">
+  <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+</a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Microsoft_SQL_Server_Logo.png"/>
+</a>
+<a href="https://www.mysql.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+</a>
+<a href="https://www.oracle.com/database/" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+</a>
+<a href="https://github.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+</a>
+<a href="https://www.linux.org" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+</a>
+  <a href="https://en.wikipedia.org/wiki/XML" target="_blank">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/XML_Logo.svg"/>
+</a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg"/>
+</a>
+<a href="https://powerbi.microsoft.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+</a>
+<a href="https://www.tableau.com" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"/>
+</a>
 </p>
+
 
 ---
 
 ### 🔗 Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/ahmed-naser-faisal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
 </a>
-&nbsp;
-<a href="mailto:ahmed.faysel.22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+<a href="https://www.facebook.com/nasser.faysel.1?locale=ar_AR" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"/>
 </a>
 </p>
 
