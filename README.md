@@ -50,19 +50,19 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </a>
 <a href="https://github.com" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(1)"/>
 </a>
 <a href="https://www.linux.org" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" style="filter: invert(1)"/>
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
 </a>
 <a href="https://www.tableau.com" target="_blank">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" style="filter: invert(1)"/>
 </a>
 </p>
 
