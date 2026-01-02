@@ -13,8 +13,8 @@
 - 📊 I enjoy turning data into insights & dashboards
 
 
-# 📫 How to reach me: **ahmed.faysel.22@gmail.com**
-# 📄 Know about my experiences: [View my CV](https://flowcv.com/resume/e382b0smo5w9)
+### 📫 How to reach me: **ahmed.faysel.22@gmail.com**
+### 📄 Know about my experiences: [MY CV](https://flowcv.com/resume/e382b0smo5w9)
 
 ---
 
