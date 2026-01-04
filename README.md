@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Faisal</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Naser Faisal</h1>
 <h3 align="center">BI / Data Analyst</h3>
 
 ---
