@@ -14,7 +14,7 @@
 
 
 ### 📫 How to reach me: **ahmed.faysel.22@gmail.com**
-### 📄 Know about my experiences: [MY CV]([https://flowcv.com/resume/e382b0smo5w9](https://drive.google.com/file/d/1rmwiStn6MIvhIRd19wOeV1RHM5W167Pg/view?usp=sharing])
+### 📄 Know about my experiences: [MY CV][https://flowcv.com/resume/e382b0smo5w9](https://drive.google.com/file/d/1rmwiStn6MIvhIRd19wOeV1RHM5W167Pg/view?usp=sharing]
 
 ---
 
